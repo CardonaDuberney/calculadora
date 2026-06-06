@@ -2,6 +2,8 @@
 categoria_liviana = 0
 categoria_normal = 0
 
+print("--- ⛴️ CATEGORIZACIÓN DE BULTOS ✈️ ---")
+
 while True:
     try:
         cantidad_bultos = int(input("Ingrese la cantidad de bultos: "))
